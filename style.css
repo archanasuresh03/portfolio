@@ -1,0 +1,49 @@
+.container
+{
+    margin: left 50px;
+    margin: right 50px;
+   
+
+}
+header{
+    text-align: center;
+    color:black
+    
+    
+
+}
+h4{
+    color:black;
+}
+p{
+    color:black;
+    font-family:monospace;
+;
+}
+li{
+    color:black;
+    font-family:monospace;
+}
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+      }
+      
+body
+{
+    background-image: linear-gradient(teal,rgb(159, 239, 159));
+    text-colour:black;
+    font-family: cursive;
+
+}
+table,th,tr,td{
+    border:1px solid black;
+    width:25%;
+    border-collapse: collapse;
+    font-family:monospace;
+
+    
+}
